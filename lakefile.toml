@@ -1,0 +1,5 @@
+name = "calibre-pilot"
+defaultTargets = ["CalibrePilot"]
+
+[[lean_lib]]
+name = "CalibrePilot"
